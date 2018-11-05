@@ -1,0 +1,14 @@
+{
+  "name": "jest-clean-room",
+  "version": "1.0.0",
+  "description": "\"cleanroom project to test intellij - Jest integraton\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
